@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "github",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 174,
-    "timeDay": 194,
-    "timeWeek": 150,
-    "timeMonth": 174,
-    "timeYear": 174,
-    "dailyMinutesDown": {
-      "2023-02-05": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 172,
+    "timeDay": 163,
+    "timeWeek": 147,
+    "timeMonth": 172,
+    "timeYear": 172,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 85,
-    "timeWeek": 135,
-    "timeMonth": 103,
-    "timeYear": 103,
+    "time": 102,
+    "timeDay": 82,
+    "timeWeek": 94,
+    "timeMonth": 102,
+    "timeYear": 102,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1067,
-    "timeDay": 946,
-    "timeWeek": 897,
-    "timeMonth": 1067,
-    "timeYear": 1067,
+    "time": 1016,
+    "timeDay": 406,
+    "timeWeek": 872,
+    "timeMonth": 1016,
+    "timeYear": 1016,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 349,
-    "timeWeek": 320,
-    "timeMonth": 310,
-    "timeYear": 310,
+    "time": 305,
+    "timeDay": 237,
+    "timeWeek": 288,
+    "timeMonth": 305,
+    "timeYear": 305,
     "dailyMinutesDown": {}
   }
 ]
