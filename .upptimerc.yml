@@ -11,6 +11,16 @@ sites:
     url: https://twitter.com
   - name: YouTube
     url: https://www.youtube.com
+  - name: Reddit
+    url: https://www.reddit.com
+  - name: Instagram
+    url: https://www.instagram.com
+  - name: Facebook
+    url: https://www.facebook.com
+  - name: Pinterest
+    url: https://www.pinterest.com
+  - name: Flickr
+    url: https://www.flickr.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
