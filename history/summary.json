@@ -154,18 +154,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.flickr.com.ico",
     "slug": "flickr",
     "status": "down",
-    "uptime": "5.53%",
-    "uptimeDay": "5.53%",
-    "uptimeWeek": "5.53%",
-    "uptimeMonth": "5.53%",
-    "uptimeYear": "5.53%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 53,
     "timeDay": 53,
     "timeWeek": 53,
     "timeMonth": 53,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2023-07-19": 0
+      "2023-07-20": 2,
+      "2023-07-19": 34
     }
   }
 ]
