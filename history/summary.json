@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.78%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.26%",
     "time": 676,
     "timeDay": 724,
     "timeWeek": 384,
@@ -99,18 +99,20 @@
     "url": "https://www.instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 195,
-    "timeWeek": 256,
-    "timeMonth": 256,
-    "timeYear": 256,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 324,
+    "timeDay": 328,
+    "timeWeek": 324,
+    "timeMonth": 324,
+    "timeYear": 324,
+    "dailyMinutesDown": {
+      "2023-07-21": 0
+    }
   },
   {
     "name": "Facebook",
@@ -165,7 +167,7 @@
     "timeMonth": 72,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2023-07-21": 2,
+      "2023-07-21": 47,
       "2023-07-20": 1440,
       "2023-07-19": 34
     }
