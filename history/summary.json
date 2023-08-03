@@ -22,18 +22,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 79,
-    "timeWeek": 142,
-    "timeMonth": 107,
-    "timeYear": 98,
-    "dailyMinutesDown": {}
+    "time": 99,
+    "timeDay": 183,
+    "timeWeek": 154,
+    "timeMonth": 111,
+    "timeYear": 99,
+    "dailyMinutesDown": {
+      "2023-08-03": 0
+    }
   },
   {
     "name": "Twitter",
