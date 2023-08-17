@@ -83,18 +83,20 @@
     "url": "https://www.reddit.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.reddit.com.ico",
     "slug": "reddit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 402,
-    "timeWeek": 340,
-    "timeMonth": 580,
-    "timeYear": 580,
-    "dailyMinutesDown": {}
+    "time": 666,
+    "timeDay": 2432,
+    "timeWeek": 598,
+    "timeMonth": 666,
+    "timeYear": 666,
+    "dailyMinutesDown": {
+      "2023-08-17": 0
+    }
   },
   {
     "name": "Instagram",
