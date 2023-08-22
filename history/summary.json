@@ -13,7 +13,7 @@
     "time": 150,
     "timeDay": 240,
     "timeWeek": 179,
-    "timeMonth": 141,
+    "timeMonth": 143,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 99,
     "timeDay": 186,
     "timeWeek": 138,
-    "timeMonth": 114,
+    "timeMonth": 115,
     "timeYear": 99,
     "dailyMinutesDown": {
       "2023-08-03": 18
@@ -51,7 +51,7 @@
     "time": 655,
     "timeDay": 298,
     "timeWeek": 371,
-    "timeMonth": 540,
+    "timeMonth": 547,
     "timeYear": 655,
     "dailyMinutesDown": {
       "2023-07-05": 124,
@@ -90,9 +90,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 888,
-    "timeDay": 436,
+    "timeDay": 586,
     "timeWeek": 1743,
-    "timeMonth": 908,
+    "timeMonth": 915,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2023-08-17": 23
@@ -104,15 +104,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.08%",
     "time": 382,
     "timeDay": 444,
     "timeWeek": 395,
-    "timeMonth": 381,
+    "timeMonth": 380,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2023-08-11": 400,
@@ -134,7 +134,7 @@
     "time": 224,
     "timeDay": 322,
     "timeWeek": 191,
-    "timeMonth": 221,
+    "timeMonth": 220,
     "timeYear": 224,
     "dailyMinutesDown": {}
   },
@@ -143,18 +143,19 @@
     "url": "https://www.pinterest.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.pinterest.com.ico",
     "slug": "pinterest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 260,
-    "timeDay": 270,
-    "timeWeek": 279,
+    "timeDay": 257,
+    "timeWeek": 276,
     "timeMonth": 260,
     "timeYear": 260,
     "dailyMinutesDown": {
+      "2023-08-22": 0,
       "2023-08-06": 20
     }
   }
