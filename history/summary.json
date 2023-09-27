@@ -65,19 +65,19 @@
     "url": "https://www.youtube.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.youtube.com.ico",
     "slug": "you-tube",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 598,
-    "timeWeek": 441,
+    "timeDay": 493,
+    "timeWeek": 435,
     "timeMonth": 410,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2023-09-27": 0
+      "2023-09-27": 6
     }
   },
   {
