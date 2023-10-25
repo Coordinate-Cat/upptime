@@ -95,7 +95,7 @@
     "time": 738,
     "timeDay": 675,
     "timeWeek": 588,
-    "timeMonth": 708,
+    "timeMonth": 718,
     "timeYear": 738,
     "dailyMinutesDown": {
       "2023-09-23": 20,
@@ -148,18 +148,19 @@
     "url": "https://www.pinterest.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.pinterest.com.ico",
     "slug": "pinterest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 333,
-    "timeDay": 206,
-    "timeWeek": 1055,
-    "timeMonth": 467,
-    "timeYear": 333,
+    "time": 331,
+    "timeDay": 140,
+    "timeWeek": 933,
+    "timeMonth": 457,
+    "timeYear": 331,
     "dailyMinutesDown": {
+      "2023-10-25": 0,
       "2023-08-06": 20
     }
   }
