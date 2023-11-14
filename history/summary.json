@@ -46,8 +46,8 @@
     "slug": "twitter",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.54%",
     "time": 879,
@@ -56,7 +56,6 @@
     "timeMonth": 2148,
     "timeYear": 879,
     "dailyMinutesDown": {
-      "2023-11-13": 2,
       "2023-11-10": 25,
       "2023-09-28": 18,
       "2023-07-05": 124,
