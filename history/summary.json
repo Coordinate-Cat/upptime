@@ -154,19 +154,19 @@
     "url": "https://www.pinterest.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.pinterest.com.ico",
     "slug": "pinterest",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 326,
-    "timeDay": 264,
-    "timeWeek": 309,
+    "timeDay": 293,
+    "timeWeek": 313,
     "timeMonth": 342,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2023-12-02": 0,
+      "2023-12-02": 9,
       "2023-08-06": 20
     }
   }
