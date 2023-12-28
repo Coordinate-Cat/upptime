@@ -1,7 +1,7 @@
 url: https://www.pinterest.com
-status: up
-code: 200
-responseTime: 1552
-lastUpdated: 2023-12-28T11:49:57.420Z
+status: down
+code: 503
+responseTime: 11198
+lastUpdated: 2023-12-28T11:56:57.808Z
 startTime: 2023-07-19T23:25:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
